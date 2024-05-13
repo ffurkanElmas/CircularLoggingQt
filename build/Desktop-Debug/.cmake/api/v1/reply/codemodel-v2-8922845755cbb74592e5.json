@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ae06cd2cc21b34dc5529.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CircularLogging",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularLogging::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularLogging-Debug-66fd11ed7c6739f4b153.json",
+					"name" : "CircularLogging",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularLogging_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularLogging_autogen-Debug-e3e93c08871c6b95959c.json",
+					"name" : "CircularLogging_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CircularLogging_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CircularLogging_autogen_timestamp_deps-Debug-43d64a9954f3e60a57e2.json",
+					"name" : "CircularLogging_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug",
+		"source" : "C:/Dosyalar/Qt/CircularLogging"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

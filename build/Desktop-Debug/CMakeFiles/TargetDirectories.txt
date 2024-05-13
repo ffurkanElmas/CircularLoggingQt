@@ -1,0 +1,8 @@
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/CircularLogging.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/install.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/install/local.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/CircularLogging_autogen_timestamp_deps.dir
+C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CMakeFiles/CircularLogging_autogen.dir

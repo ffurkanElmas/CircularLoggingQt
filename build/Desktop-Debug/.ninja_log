@@ -1,0 +1,8 @@
+# ninja log v5
+23	116	7373388316307357	CircularLogging_autogen/timestamp	caa790df98ae412f
+23	116	7373388316307357	CircularLogging_autogen/mocs_compilation.cpp	caa790df98ae412f
+119	1854	7373388333649759	CMakeFiles/CircularLogging.dir/main.cpp.obj	c96fc87e6c96d7e4
+121	732	7373343224597422	CMakeFiles/CircularLogging.dir/CircularLogging_autogen/mocs_compilation.cpp.obj	9f654e812fa7390
+23	116	7373388316307357	C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CircularLogging_autogen/timestamp	caa790df98ae412f
+23	116	7373388316307357	C:/Dosyalar/Qt/CircularLogging/build/Desktop-Debug/CircularLogging_autogen/mocs_compilation.cpp	caa790df98ae412f
+1855	2105	7373388335755609	CircularLogging.exe	13153ce9388cae7b
